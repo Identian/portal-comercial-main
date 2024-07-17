@@ -1,0 +1,49 @@
+@font-face {
+    font-family: Montserrat;
+    src: url('../fonts/Montserrat/Montserrat-Regular.ttf');
+  }
+
+@page {
+    margin: 0cm 0cm;
+}
+
+html{
+    font-family: Montserrat;
+}
+
+body {
+    margin-top: 2cm;
+    margin-left: 1cm;
+    margin-right: 1cm;
+    margin-bottom: 2cm;
+}
+
+header {
+    position: fixed;
+    top: 0.3cm;
+    left: 1cm;
+    right: 0cm;
+    height: 2cm;
+}
+.titulo {
+    text-align: center;
+    font-weight: bold;
+    font-size: 9px;
+}
+
+p {
+    text-align: justify;
+}
+
+
+
+.hr {
+   margin-left: 0px;
+    border: 1px solid black;
+}
+
+.fontt {
+	/*margin-top: 100px;*/
+    font-family: tahoma;
+    font-size: 12px;
+}
